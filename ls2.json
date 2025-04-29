@@ -1,0 +1,15 @@
+{
+    "image": "https://bafybeicniipksrz2wy5xwka2w3hdrxxjoinpnk765woyisgsxxkf2yietq.ipfs.w3s.link/10000.png",
+    "name": "NFTLotshot",
+    "description": "Lotshot Prize",
+    "attributes": [ 
+        {
+            "trait_type": "reward",
+            "value": "10000USDT" 
+        },
+        {
+            "trait_type": "season",
+             "value": "1"
+        } 
+    ]  
+}
